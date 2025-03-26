@@ -15,6 +15,15 @@
 - Manipular um banco de dados SQLite com TypeORM
 - Criar filtros genéricos ainda usando o conceito de tipos
 
+### TypeScript: desenvolvendo validações e tratando erros
+
+- Aprender a compilar um arquivo Javascript em um Typescript
+- Solucionar erros de tipo em tempo de desenvolvimento
+- Usar tipos nativos, uniões e tipos personalizados
+- Aprender a usar o padrão de repositório na prática
+- Manipular um banco de dados SQLite com TypeORM
+- Criar filtros genéricos ainda usando o conceito de tipos
+
 ## 🖥️ Tecnologias
 
 <div>
@@ -25,5 +34,5 @@
 
 ## 🧑‍🏫 Instrutor(es)
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/21970707?v=4" width=115><br><sub>Flavio Henrique de Souza Almeida</sub>](https://github.com/EmersonLaranja) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/21970707?v=4" width=115><br><sub>Emerson Laranja</sub>](https://github.com/EmersonLaranja) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
